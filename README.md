@@ -1,15 +1,18 @@
-# simple electron screen capture
+<h1 align="center">
+<br>
+Screen Capture
+</h1>
 
-<p>
+<p align="center">
 simple screen capture created in electron.
 </p>
 
 
 <p align="center">
-
-  <a href="https://github.com/brunogeek9" target="_blank">
+  <a href="https://opensource.org/licenses/MIT">
     <img alt="Made by Bruno Jamelli" src="https://img.shields.io/badge/made%20by-Bruno_Jamelli-informational">
   </a>
+
   <a href="https://github.com/brunogeek9" target="_blank" >
     <img alt="Github - Bruno Jamelli" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github">
   </a>
@@ -45,6 +48,15 @@ npm run make
 
 
 ### Demonstration
+
+<div>
+  <img src="screenshots/print1.png" alt="demo" height="260">
+  <img src="screenshots/print2.png" alt="demo" height="260">
+  <img src="screenshots/print3.png" alt="demo" height="260">
+  <img src="screenshots/print4.png" alt="demo" height="260">
+</div>
+
+<hr />
 
 ## :memo: License
 
