@@ -29,6 +29,17 @@ simple screen capture created in electron.
 
 </p>
 
+<div align="center">
+  <h2>
+    Demonstration
+  </h2>
+  <img src="screenshots/print1.png" alt="demo" height="260">
+  <img src="screenshots/print2.png" alt="demo" height="260">
+  <img src="screenshots/print3.png" alt="demo" height="260">
+  <img src="screenshots/print4.png" alt="demo" height="260">
+</div>
+
+<hr />
 
 ## Project setup
 ```
@@ -45,18 +56,6 @@ npm start
 ```
 npm run make
 ```
-
-
-### Demonstration
-
-<div>
-  <img src="screenshots/print1.png" alt="demo" height="260">
-  <img src="screenshots/print2.png" alt="demo" height="260">
-  <img src="screenshots/print3.png" alt="demo" height="260">
-  <img src="screenshots/print4.png" alt="demo" height="260">
-</div>
-
-<hr />
 
 ## :memo: License
 
