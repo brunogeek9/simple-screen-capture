@@ -59,5 +59,6 @@ npm run make
 
 ## :memo: License
 
-This project was done under the MIT license. See more here [LICENSE](/LICENSE) for more information.
+This project was done under the MIT license and using this [Tutorial](https://fireship.io/lessons/electron-screen-recorder-project-tutorial/). 
+See more here [LICENSE](/LICENSE) for more information.
 Made by [Bruno Jamelli](https://github.com/brunogeek9)
